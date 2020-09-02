@@ -1,7 +1,7 @@
 #!/bin/bash
 # using linux mint 20 64bit
 # bash script for maintenance. 
-# open terminal in same folder as script then type in terminal ./suspend.sh
+# open terminal in same folder as script then type in terminal ./maintenance_mint.sh
 # from zeus/1nam  clean,autoremove,update,upgrade,notify,suspend.
 echo 'each job listed takes around ten seconds then pc will suspend.'
 echo ''
