@@ -22,3 +22,6 @@ sudo apt-get autoremove
 
 echo Freeing up disk space
 sudo apt-get clean
+echo "press enter to exit."
+read
+#end.
