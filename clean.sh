@@ -1,4 +1,5 @@
 #!/bin/bash
+# super fast and bare bones.
 sudo apt-get update
 sudo apt-get dist-upgrade
 sudo apt-get upgrade
